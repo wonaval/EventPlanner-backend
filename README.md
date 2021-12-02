@@ -2,6 +2,10 @@
 Authors: Will, Yang Su, HABIT
 
 ---
+
+Deployed at https://event-planner-wonaval.herokuapp.com/
+
+---
 ## Description
 Our project's is an event planner app that allows you to register or login using your email and a password so you can log events that you are creating.
 
