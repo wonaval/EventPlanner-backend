@@ -1,34 +1,19 @@
-# Project 2
+# Event Planner
 Authors: Will, Yang Su, HABIT
 
 ---
 ## Description
-Our project's inspiration comes from club websites with three paid membership types, each with their own perks.
-1. Standard Membership
-    - Entitled to a free dessert
-    - Entitled to a free cocktail
-2. Senior Membership
-    - Entitled to a free dessert
-    - Entitled to a free cocktail
-    - Entitled to free parking at any event
-3. Luxury Membership
-    - Entitled to a free dessert
-    - Entitled to a free cocktail
-    - Entitled to free parking at any event
-    - Entitled to 3 free event tickets
-    - Entitled to a custom-made cake at events
+Our project's is an event planner app that allows you to register or login using your email and a password so you can log events that you are creating.
 
 ---
 ## User stories
-1. When I register, I'm prompted to give the website my name, email address, and password, along with a selector for a different membership options.
+1. When I register, I'm prompted to give my name, username, email address, and password, along with a selector for a different membership options.
 2. When I login with my name or email and password, I'm directed to an events page.
-7. When I login to my account I'm shown my name in a nav bar.
-3. When I submit a form from the events page, it's posted to the list of events.
-4. I can edit the event via a button from the events page, taking me to a page that's specific to the event.
+3. When I go to the account information page, I'm shown my name in a nav bar.
+4. When I submit the create event form on the events page, it's posted to the list of events.
 5. I can delete events via another button which refreshes the events page.
-6. In the nav bar, I can click a link that'll bring me to a description/account status page that describes the different membership tiers and displays my own.
+6. In the nav bar, I can click a link that'll bring me to a account status page that displays your membership tier.
 7. I can change my membership tier in the aforementioned page.
-8. I can click a button to mark an event as finished.
 
 ---
 ## Basic Website Layout
@@ -56,7 +41,6 @@ Our project's inspiration comes from club websites with three paid membership ty
 - Allow for login
 - Allow for logout
 - Allow for event creation
-- Allow for event marking as complete
 - Allow for event deletion
 - Allow for changing membership status
 - Have links to pages disappear based on login status
